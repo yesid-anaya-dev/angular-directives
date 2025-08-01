@@ -1,6 +1,6 @@
 # DirectivesDeepDive
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0. Is the result of the angular course: `https://www.udemy.com/course/the-complete-guide-to-angular-2` section #7
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0. Is the result of the angular course: https://www.udemy.com/course/the-complete-guide-to-angular-2 section #7
 
 ## Development server
 
